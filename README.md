@@ -48,11 +48,11 @@ I’m Shivanisree Neethimohan, a Cybersecurity Enthusiast 🔒 who's still on a 
 
 
 ## 🎨 Things That Spark My Creativity  
-- 📖 Books – Love psychology & sci-fi because understanding human minds & imagining time travel is my thing. 🚀  
+- 📚 Books    - Love psychology & sci-fi because understanding human minds & imagining time travel is my thing. 🚀  
 
-- ✍️ Writing – Whether it’s stories, poetry, or blogs, words are my second world  
+- ✍️ Writing  - Whether it’s stories, poetry, or blogs, words are my second world  
 
-- 🧠  I think—sometimes about life’s biggest questions, sometimes about why my code worked when it really shouldn't have.  
+- 🧠  I think - sometimes about life’s biggest questions, sometimes about why my code worked when it really shouldn't have.  
 
 ---
 
