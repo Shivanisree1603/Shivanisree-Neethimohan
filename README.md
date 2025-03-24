@@ -10,7 +10,6 @@
 ## 🎭 About Me  
 I’m Shivanisree Neethimohan, a Cybersecurity Enthusiast 🔒 who's still on a journey of learning and exploring the world of defensive security (not a hacker... yet 😆).
 
----
 
 ## 📊 GitHub Stats  
 <div align="center">
@@ -22,35 +21,24 @@ I’m Shivanisree Neethimohan, a Cybersecurity Enthusiast 🔒 who's still on a 
 
   <!-- Contributions and Most Used Language -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivanisree1603&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="40%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivanisree1603&theme=tokyonight" width="40%" />
   </div>
 
 </div>
-
-## 🚀 TryHackMe Profile  
-<div align="center">
-  <a href="https://tryhackme.com/p/NyxN3twork">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/NyxN3twork.png" alt="TryHackMe Badge" />
-  </a>
-</div>
-
----
 
 ## 🚀 Skills & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,html,tailwind,mysql,mongodb,linux,git,github,vscode,docker,typescript,react,owershell" />
 </p>
 
----
-## What I Do When I’m Free
+
+## 🎨 Things That Spark My Creativity  
  - 📖 Books – Love psychology & sci-fi because understanding human minds & imagining time travel is my thing. 🚀
 
-- ✍️ Writing – Stories, poetry, blogs… basically anything where I can word-vomit without judgment.
+- ✍️ Writing – Whether it’s stories, poetry, or blogs, words are my second world
 
-- 🧠 Learning – I ask a lot of questions, and Google is my best friend (and worst enemy, depending on search results).
-
-- 🎭 Being Dramatic – When my code works: "I am unstoppable!" When it doesn’t: "I shall retire to the mountains."
+- 🧠  I think—sometimes about life’s biggest questions, sometimes about why my code worked when it really shouldn't have.
 
 ---
 
