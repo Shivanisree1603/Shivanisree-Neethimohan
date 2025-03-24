@@ -10,23 +10,36 @@
 ## 🎭 About Me  
 I’m Shivanisree Neethimohan, a Cybersecurity Enthusiast 🔒 who's still on a journey of learning and exploring the world of defensive security (not a hacker... yet 😆). I’m into cybersecurity, and every time I read about it, I feel like unlocking a new level of a never-ending puzzle—challenging, thrilling, and always keeping me on my toes! 🚀🔐  
 
+<!--
+## 📈 GitHub Stats  
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivanisree1603&theme=github_dark" width="80%" />
+
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" width="40%" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=00BFFF&text_color=00CED1" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivanisree1603&theme=github_dark" width="40%" />
+  </div>
+</div> -->
+
 
 ## 📈 GitHub Stats  
 <div align="center">
   
   <!-- Total Stats + Contribution Graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivanisree1603&theme=github_dark" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivanisree1603&theme=github_dark&border_color=00BFFF" width="80%" />
   
   <br>
-
   <!-- Contributions and Most Used Language -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" width="40%" /> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=00BFFF&text_color=00CED1" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivanisree1603&theme=github_dark" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=00BFFF&text_color=00CED1&border_color=00BFFF" width="40%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivanisree1603&theme=github_dark&border_color=00BFFF" width="40%" />
   </div>
 
 </div>
+
+
 
 ## 🚀 Skills & Tools  
 <p align="center">
