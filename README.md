@@ -8,8 +8,7 @@
 ---
 
 ## 🎭 About Me  
-I’m Shivanisree Neethimohan, a Cybersecurity Enthusiast 🔒 who's still on a journey of learning and exploring the world of defensive security (not a hacker... yet 😆).  
-I’m into cybersecurity, and every time I read about it, I feel like unlocking a new level of a never-ending puzzle—challenging, thrilling, and always keeping me on my toes! 🚀🔐  
+I’m Shivanisree Neethimohan, a Cybersecurity Enthusiast 🔒 who's still on a journey of learning and exploring the world of defensive security (not a hacker... yet 😆). I’m into cybersecurity, and every time I read about it, I feel like unlocking a new level of a never-ending puzzle—challenging, thrilling, and always keeping me on my toes! 🚀🔐  
 
 
 ## 📈 GitHub Stats  
