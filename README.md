@@ -1,61 +1,70 @@
 <!-- Centered Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=システムアナリスト;Be+Welcome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=FF4500&center=true&vCenter=true&width=500&height=50&lines=Welcome,+curious+souls!;Добро+пожаловать,+любопытная+душа!;欢迎，好奇的灵魂！;Bienvenue,+âme+curieuse!" />
 </p>
+
 
 ---
 
 ## 🎭 About Me  
-Hey there! I'm **Shivanisree Neethimohan**, a **Cybersecurity Enthusiast 🔐** who loves:  
- -✍️ I write—stories, poetry, and blogs (because words deserve security too, right?).
-
- -📖 I read—because who doesn’t love a good psychological thriller or a mind-blowing sci-fi twist?
-
- -🧠 I think—sometimes about life’s biggest questions, sometimes about why my code worked when it really shouldn't have.
-
-> "I'm still learning, but I'm always open to new knowledge!" 🎯
+I’m Shivanisree Neethimohan, a Cybersecurity Enthusiast 🔒 who's still on a journey of learning and exploring the world of defensive security (not a hacker... yet 😆).
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivanisreeN&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanisreeN&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanisreeN&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  
+  <!-- Total Stats + Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivanisree1603&theme=tokyonight" width="80%" />
+  
+  <br>
+
+  <!-- Contributions and Most Used Language -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shivanisree1603&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivanisree1603&theme=tokyonight" width="49%" />
+  </div>
+
+</div>
+
+## 🚀 TryHackMe Profile  
+<div align="center">
+  <a href="https://tryhackme.com/p/NyxN3twork">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/NyxN3twork.png" alt="TryHackMe Badge" />
+  </a>
+</div>
 
 ---
 
 ## 🚀 Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tailwind,bootstrap,java,mysql,mongodb,linux,git,github,vscode,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,tailwind,mysql,mongodb,linux,git,github,vscode,docker,typescript,react,owershell" />
 </p>
+
+---
+## What I Do When I’m Free
+ - 📖 Books – Love psychology & sci-fi because understanding human minds & imagining time travel is my thing. 🚀
+
+- ✍️ Writing – Stories, poetry, blogs… basically anything where I can word-vomit without judgment.
+
+- 🧠 Learning – I ask a lot of questions, and Google is my best friend (and worst enemy, depending on search results).
+
+- 🎭 Being Dramatic – When my code works: "I am unstoppable!" When it doesn’t: "I shall retire to the mountains."
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://discord.gg/yourdiscord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="shivanisree1603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shivanisree-neethimohan-748655257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Shivanisree1603"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  
 </p>
 
----
-
-## 🏆 Achievements  
-- 🛡️ Completed a **Cybersecurity Internship**  
-- 📝 Published **Blogs & Articles**  
-- 🔎 Solved **Capture The Flag (CTF) challenges**  
-
----
-
-## 🐧 Cute Mascot & Visitor Counter  
+## 🐧 Visitor Count  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW12/giphy.gif" width="100px" />
+  <img src="https://komarev.com/ghpvc/?username=Shivanisree1603&label=VISITS&style=flat-square&color=blue" />
 </p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivanisreeN" alt="visitor count"/>
-</p>
+
+
