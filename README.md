@@ -1,7 +1,7 @@
 <!-- Centered Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Welcome,+curious+souls!;Добро+пожаловать,+любопытная+душа!;欢迎，好奇的灵魂！;Bienvenue,+âme+curieuse!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Welcome,+curious+minds!;Добро+пожаловать,+любопытная+душа!;欢迎，好奇的灵魂！;Bienvenue,+âme+curieuse!" />
 </p>
 
 
